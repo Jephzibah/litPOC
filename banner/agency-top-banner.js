@@ -245,7 +245,7 @@ const stylesCSS = `
   }
   @media screen and (min-width: 992px) {
     #slide-1a .border-end {
-      background: url(../img/specSlideProducts.webp) right center/contain no-repeat;
+      background: url(https://avidiahealth.com/img/specSlideProducts.webp) right center/contain no-repeat;
     }
     #slide-1a .specSlideImg { display: none; }
   }
