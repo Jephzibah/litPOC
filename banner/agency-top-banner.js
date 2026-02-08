@@ -54,7 +54,7 @@ const templateHTML = `
             <div class="row">
               <div class="col-12 border-end">
                 <div class="text-container">
-                  <img src="img/specSlideDiscount.svg" alt="$5 off at HSA store" />
+                  <img src="https://avidiahealth.com/img/specSlideDiscount.svg" alt="$5 off at HSA store" />
                   <h2>USE Code <span>2026Save5</span></h2>
                   <p>Discover HSA eligible products made to keep you feeling good through the colder months.</p>
                   <a href="https://hsastore.com/?AFID=489825&GroupName=TPA&CID=437559&utm_source=Avidia+Bank&utm_medium=tpa+public+link+linktree&utm_campaign=TPA+Partner" target="_blank" rel="noopener">Shop Now</a>
@@ -62,7 +62,7 @@ const templateHTML = `
                 </div>
               </div>
               <div class="specSlideImg">
-                <img src="img/specSlideProducts.webp" alt="Max HSA Products" />
+                <img src="https://avidiahealth.com/img/specSlideProducts.webp" alt="Max HSA Products" />
               </div>
             </div>
           </div>
@@ -71,7 +71,7 @@ const templateHTML = `
             <div class="row">
               <div class="col-12 col-lg-5 border-end">
                 <div class="text-container">
-                  <img src="img/maxhsa-logo.png" alt="maxhsa logo" />
+                  <img src="https://avidiahealth.com/img/maxhsa-logo.png" alt="maxhsa logo" />
                   <h2>3 New Ways to Effortlessly Grow HSA Contributions</h2>
                   <a href="https://maxhsa.com/" target="_blank" rel="noopener">Learn More</a>
                 </div>
@@ -79,15 +79,15 @@ const templateHTML = `
               <div class="col-12 col-lg-7">
                 <div class="row">
                   <div class="col-12 col-md-4" id="newPerk1">
-                    <img src="img/roundups.png" alt="Roundups On everyday purchases" width="200" class="img-fluid" />
+                    <img src="https://avidiahealth.com/img/roundups.png" alt="Roundups On everyday purchases" width="200" class="img-fluid" />
                     <p><span>Roundups</span> On everyday purchases</p>
                   </div>
                   <div class="col-12 col-md-4" id="newPerk2">
-                    <img src="img/cashback.png" alt="Cashback Rewards at thousands of retailers" width="200" class="img-fluid" />
+                    <img src="https://avidiahealth.com/img/cashback.png" alt="Cashback Rewards at thousands of retailers" width="200" class="img-fluid" />
                     <p><span>Cashback Rewards</span> at thousands of retailers</p>
                   </div>
                   <div class="col-12 col-md-4" id="newPerk3">
-                    <img src="img/rewards.png" alt="Referral Rewards for spreading the word" width="200" class="img-fluid" />
+                    <img src="https://avidiahealth.com/img/rewards.png" alt="Referral Rewards for spreading the word" width="200" class="img-fluid" />
                     <p><span>Referral Rewards</span>for spreading the word</p>
                   </div>
                 </div>
@@ -100,7 +100,7 @@ const templateHTML = `
           <div class="carousel-item" id="slide-2" aria-roledescription="slide">
             <div class="row align-items-center">
               <div class="col-12 col-lg-4 text-center">
-                <img src="img/AI-Fraudster.png"
+                <img src="https://avidiahealth.com/img/AI-Fraudster.png"
                      alt="Illustration of a masked fraudster using a laptop with warning symbols"
                      class="img-fluid fraud-graphic">
               </div>
@@ -127,13 +127,13 @@ const templateHTML = `
               <div class="col-12 col-lg-9">
                 <div class="row">
                   <div class="col-12 col-md-4">
-                    <img src="img/ah-2025.png" alt="2025 HSA contribution limits" width="200" class="img-fluid">
+                    <img src="https://avidiahealth.com/img/ah-2025.png" alt="2025 HSA contribution limits" width="200" class="img-fluid">
                   </div>
                   <div class="col-12 col-md-4">
-                    <img src="img/ah-2026.png" alt="2026 HSA contribution limits" width="200" class="img-fluid">
+                    <img src="https://avidiahealth.com/img/ah-2026.png" alt="2026 HSA contribution limits" width="200" class="img-fluid">
                   </div>
                   <div class="col-12 col-md-4">
-                    <img src="img/ah-catchup.png" alt="HSA catch-up contribution limits" width="200" class="img-fluid">
+                    <img src="https://avidiahealth.com/img/ah-catchup.png" alt="HSA catch-up contribution limits" width="200" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -164,18 +164,18 @@ const templateHTML = `
                 <div class="row justify-content-lg-start justify-content-center">
                   <div class="col-auto col-lg-3">
                     <a href="https://apps.apple.com/us/app/avidiahealth-hsa/id760856884" target="_blank" rel="noopener">
-                      <img src="img/AppleAppStore.png" alt="Download on the App Store" width="230" class="img-fluid store">
+                      <img src="https://avidiahealth.com/img/AppleAppStore.png" alt="Download on the App Store" width="230" class="img-fluid store">
                     </a>
                   </div>
                   <div class="col-auto col-lg-3">
                     <a href="https://play.google.com/store/apps/details?id=com.avidia.fismobile&hl=en_US&gl=US&pli=1" target="_blank" rel="noopener">
-                      <img src="img/Google-Play.png" alt="Get it on Google Play" width="230" class="img-fluid store">
+                      <img src="https://avidiahealth.com/img/Google-Play.png" alt="Get it on Google Play" width="230" class="img-fluid store">
                     </a>
                   </div>
                 </div>
               </div>
               <div class="col-12 col-md-4">
-                <img src="img/banner-slide-3.png" width="200" alt="Avidia Health app on phone" class="img-fluid phone">
+                <img src="https://avidiahealth.com/img/banner-slide-3.png" width="200" alt="Avidia Health app on phone" class="img-fluid phone">
               </div>
             </div>
           </div>
