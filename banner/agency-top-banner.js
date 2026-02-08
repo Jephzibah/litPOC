@@ -107,16 +107,16 @@ class AgencyTopBanner extends LitElement {
     return `agencyBanner:dismissed:${this.bannerId || "v1"}`;
   }
 
-  connectedCallback() {
-    super.connectedCallback();
+  // connectedCallback() {
+  //   super.connectedCallback();
 
-    // If dismissed, hide immediately (and collapse reserved slot via <html> class if you included it)
-    try {
-      if (localStorage.getItem(this._storageKey) === "1") {
-        this._hidden = true;
-      }
-    } catch (e) {}
-  }
+  //   // If dismissed, hide immediately (and collapse reserved slot via <html> class if you included it)
+  //   try {
+  //     if (localStorage.getItem(this._storageKey) === "1") {
+  //       this._hidden = true;
+  //     }
+  //   } catch (e) {}
+  // }
 
   _dismiss() {
     this._hidden = true;
