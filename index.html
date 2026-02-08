@@ -1,34 +1,5 @@
-<!-- Optional: prevents CLS for returning visitors who already dismissed -->
-<script>
-  (function () {
-    try {
-      var key = "agencyBanner:dismissed:v1";
-      if (localStorage.getItem(key) === "1") {
-        document.documentElement.classList.add("agency-banner-dismissed");
-      }
-    } catch (e) {}
-  })();
-</script>
+<!-- wherever you want it -->
+<bootstrap-banner></bootstrap-banner>
 
-<style>
-  /* Reserve space so the page doesn't shift when the banner loads */
-  #agency-banner-slot {
-    min-height: var(--agency-banner-height, 56px);
-  }
-
-  /* If previously dismissed, collapse the reserved space BEFORE paint */
-  html.agency-banner-dismissed #agency-banner-slot {
-    min-height: 0;
-  }
-</style>
-
-<div id="agency-banner-slot">
-  <agency-top-banner
-    banner-id="v1"
-    message="Self-insured employers: cut admin load without sacrificing member experience."
-    cta-text="Request a demo"
-    cta-url="/contact"
-  ></agency-top-banner>
-</div>
-
-<script type="module" src="https://jephzibah.github.io/litPOC/banner/agency-top-banner.js"></script>
+<!-- load the component -->
+<script type="module" src="/banner/agency-top-banner.js"></script>
