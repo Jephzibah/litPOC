@@ -1,6 +1,9 @@
 // bootstrap-banner.lit.js
-import { LitElement, html, css } from "https://cdn.jsdelivr.net/npm/lit@3/index.js";
-import { unsafeHTML } from "https://cdn.jsdelivr.net/npm/lit@3/directives/unsafe-html.js";
+// import { LitElement, html, css } from "https://cdn.jsdelivr.net/npm/lit@3/index.js";
+// import { unsafeHTML } from "https://cdn.jsdelivr.net/npm/lit@3/directives/unsafe-html.js";
+import { LitElement, html, css } from "https://esm.sh/lit@3";
+import { unsafeHTML } from "https://esm.sh/lit@3/directives/unsafe-html.js";
+
 
 /**
  * <bootstrap-banner>
